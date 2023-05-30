@@ -52,7 +52,7 @@
 								"feed"
 							]
 						},
-						"description": "Get all the items in the feed"
+						"description": "Get all the item in the feed"
 					},
 					"response": []
 				},
