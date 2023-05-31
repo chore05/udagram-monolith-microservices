@@ -19,9 +19,5 @@ spec:
           image: chore05/udagram-api-user:latest
           ports:
             - containerPort: 8080
-          envFrom:
-            - configMapRef:
-                name: env-config-map
-            - secretRef:
-                name: env-pg-secret
+          
           
